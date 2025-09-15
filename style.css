@@ -1,4 +1,3 @@
-/* Import Google font - Poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 * {
   margin: 0;
@@ -140,6 +139,6 @@ body {
 }
 
 .wrapper .generate-btn:hover {
-  background: #3267d6; /* Darker shade of blue on hover */
-  color: #fff; /* Ensure text remains visible */
+  background: #3267d6;
+  color: #fff;
 }
